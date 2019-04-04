@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[MainWindow.xaml](./CS/AdditionalLegendSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/AdditionalLegendSample/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/AdditionalLegendSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/AdditionalLegendSample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/AdditionalLegendSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/AdditionalLegendSample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Add an Additional Legend to a Chart
 
